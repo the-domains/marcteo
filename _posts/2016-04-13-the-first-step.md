@@ -5,19 +5,19 @@ inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: The single most important thing to do to achieve what you want
-datePublished: '2016-04-13T12:08:42.792Z'
-dateModified: '2016-04-13T12:08:35.580Z'
+description: 'Some people just want to make it big in the world, to earn as much as possible, to be promoted as high as possible, to retire as fast as possible.'
+datePublished: '2016-04-13T12:10:49.262Z'
+dateModified: '2016-04-13T12:08:49.362Z'
 title: The First Step
 author: []
+sourcePath: _posts/2016-04-13-the-first-step.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-04-13-the-first-step.md
-published: true
 url: the-first-step/index.html
 _type: Article
 
