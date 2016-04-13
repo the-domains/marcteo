@@ -1,0 +1,28 @@
+name: MarcTeo
+favicon: null
+layout_spectrum: 0.2859651257749647
+typography_spectrum: 0.17408334370702505
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.6016385999973863
+  lightness: 0.3202287661843002
+  saturation: 0.7491948867682368
+  rhythmicContrast: 0.006952544907107949
+purpose: []
