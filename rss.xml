@@ -1,11 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[A man's thoughts about the world of business, future of technology, productivity, and success]]></title>
-        <description><![CDATA[A man's thoughts about the world of business, future of technology, productivity, and success]]></description>
+        <title><![CDATA[Thoughts about the world of business, productivity, and success]]></title>
+        <description><![CDATA[Thoughts about the world of business, productivity, and success]]></description>
         <link>https://thegrid.ai/marcteo/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 13 Apr 2016 12:26:10 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 17 Apr 2016 14:55:10 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/marcteo/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Principles of Education]]></title>
+            <description><![CDATA[<article><h1>Principles of Education</h1><p>Some people just want to make it big in the world, to earn as much as possible, to promote as high as possible, to retire as fast as possible.</p></article>]]></description>
+            <link>https://thegrid.ai/marcteo/principles-of-education/index.html</link>
+            <guid isPermaLink="false">6b14de86-6dd5-4064-8476-bc4e0e81dfb9</guid>
+            <pubDate>Sun, 17 Apr 2016 14:55:09 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[About Me]]></title>
             <description><![CDATA[<article><h1>About Me</h1><p>Hi there! I am Marc, a recent graduate of the Nanyang Business School from Singapore. While I took Banking & Finance as my major and Human Resources as a double specialisation, I am going to be a Business Development management associate in the Action Community for Entrepreneurship (ACE) for Singapore, an organisation that helps to facilitate and drive the startup scene in Singapore. I will be using this blog to share my thoughts about various topics such as the current business world which can range from startups to huge MNCs, investing, productivity and personal development. </p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/975d2936-d175-4cca-9c99-230416f2b534.jpg"></article>]]></description>
